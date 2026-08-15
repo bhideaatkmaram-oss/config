@@ -1,0 +1,17 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+
+
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to aadibank acounts releated  QA local APis"
+  contactDetails:
+    name: "Raj-saxena -QA lead "
+    email: "Raj21@gmail.com"
+  onCallSupport:
+    -(666) 589-6598
+    -(666) 689-5246
+

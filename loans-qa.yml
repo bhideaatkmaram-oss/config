@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to aadibank accounts related QA local APIs"
+  contactDetails:
+    name: "aatmaram bhide - QA lead"
+    email: "aatmaram2@gmail.com"
+  onCallSupport:
+    - "(956) 589-6598"
+    - "(364) 689-987"

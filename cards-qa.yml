@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+#
+#build:
+#  version: "2.0"
+
+cards:
+  message: "Welcome to aadibank cards related QA local APIs"
+  contactDetails:
+    name: "jethalal gada - QA lead"
+    email: "jethalal@gmail.com"
+  onCallSupport:
+    - "(989) 589-6598"
+    - "(679) 689-987"

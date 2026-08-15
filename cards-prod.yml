@@ -1,0 +1,14 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+build:
+  version: "1.0"
+cards:
+  message: "Welcome to aadibank cards releated  prod APis"
+  contactDetails:
+    name: "Raj bgandari- Product Owner"
+    email: "Raj@gmail.com"
+  onCallSupport:
+    -(898) 589-6598
+    -(895) 689-5246

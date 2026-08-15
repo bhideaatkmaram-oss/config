@@ -1,0 +1,14 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to aadibank acounts releated  prod APis"
+  contactDetails:
+    name: "Harshal Bari - Product Owner"
+    email: "harshal32@gmail.com"
+  onCallSupport:
+    -(777) 589-6598
+    -(897) 689-5246

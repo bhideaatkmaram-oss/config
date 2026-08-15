@@ -1,0 +1,14 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+build:
+  version: "1.0"
+loans:
+  message: "Welcome to aadibank loans releated  prod APis"
+  contactDetails:
+    name: "tapu gada- Product Owner"
+    email: "tapu5@gmail.com"
+  onCallSupport:
+    -(562) 589-6598
+    -(786) 689-6259

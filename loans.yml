@@ -1,0 +1,43 @@
+#spring:
+#  application:
+#    name: loansserver
+#
+#  datasource:
+#    url: jdbc:h2:mem:testdb
+#    driver-class-name: org.h2.Driver
+#    username: sa
+#    password: ""
+#
+#  h2:
+#    console:
+#      enabled: true
+#
+#  jpa:
+#    database-platform: org.hibernate.dialect.H2Dialect
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#
+#  config:
+#    import:
+#      - "loans-qa.yml"
+#      - "loans-prod.yml"
+#
+#  profiles:
+#    active:
+#      - "qa"
+#
+#server:
+#  port: 8090
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to aadibank loans related local APIs"
+  contactDetails:
+    name: "Jhon -Developer"
+    email: "jhon12@gmail.com"
+  onCallSupport:
+    - "(555) 555-1234"
+    - "(555) 555-4568"
