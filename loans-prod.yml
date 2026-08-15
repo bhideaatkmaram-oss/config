@@ -5,7 +5,7 @@
 build:
   version: "1.0"
 loans:
-  message: "Welcome to aadibank loans releated  webhooks APis"
+  message: "Welcome to aadibank loans releated  webhook APis"
   contactDetails:
     name: "tapu gada- Product Owner"
     email: "tapu5@gmail.com"
